@@ -1,0 +1,16 @@
+[
+  {
+    "id": "sku-001",
+    "title": "Kipas Angin Dinding 16\"",
+    "price": 175000,
+    "price_original": 199000,
+    "currency": "IDR",
+    "image": "https://via.placeholder.com/600x600.png?text=Produk+1",
+    "category": "Elektronik",
+    "rating": 4.7,
+    "shop": "Berkah Jaya Abadi Teknik",
+    "source": "Affiliate",
+    "url": "https://contoh-link-affiliate.com/produk1",
+    "updated_at": "2025-08-10T12:00:00Z"
+  }
+]
