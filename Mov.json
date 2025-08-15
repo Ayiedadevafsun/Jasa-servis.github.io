@@ -1,21 +1,3 @@
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
 [
   {"type":"movie","title":"Movie 1","year":"2023","genre":["Action","Adventure"],"duration":"120 min","rating":"8.2","description":"Deskripsi Movie 1","poster":"https://via.placeholder.com/300x450?text=Movie+1","trailer":"https://youtu.be/trailer1","link":"https://example.com/movie1"},
   {"type":"movie","title":"Movie 2","year":"2022","genre":["Drama","Romance"],"duration":"110 min","rating":"7.5","description":"Deskripsi Movie 2","poster":"https://via.placeholder.com/300x450?text=Movie+2","trailer":"https://youtu.be/trailer2","link":"https://example.com/movie2"},
