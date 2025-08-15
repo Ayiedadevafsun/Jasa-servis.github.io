@@ -1,0 +1,35 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+[
+  {"type":"movie","title":"Movie 1","year":"2023","genre":["Action","Adventure"],"duration":"120 min","rating":"8.2","description":"Deskripsi Movie 1","poster":"https://via.placeholder.com/300x450?text=Movie+1","trailer":"https://youtu.be/trailer1","link":"https://example.com/movie1"},
+  {"type":"movie","title":"Movie 2","year":"2022","genre":["Drama","Romance"],"duration":"110 min","rating":"7.5","description":"Deskripsi Movie 2","poster":"https://via.placeholder.com/300x450?text=Movie+2","trailer":"https://youtu.be/trailer2","link":"https://example.com/movie2"},
+  {"type":"movie","title":"Movie 3","year":"2021","genre":["Horror","Thriller"],"duration":"95 min","rating":"6.8","description":"Deskripsi Movie 3","poster":"https://via.placeholder.com/300x450?text=Movie+3","trailer":"https://youtu.be/trailer3","link":"https://example.com/movie3"},
+  {"type":"movie","title":"Movie 4","year":"2020","genre":["Comedy"],"duration":"100 min","rating":"7.0","description":"Deskripsi Movie 4","poster":"https://via.placeholder.com/300x450?text=Movie+4","trailer":"https://youtu.be/trailer4","link":"https://example.com/movie4"},
+  {"type":"movie","title":"Movie 5","year":"2019","genre":["Action","Thriller"],"duration":"130 min","rating":"8.0","description":"Deskripsi Movie 5","poster":"https://via.placeholder.com/300x450?text=Movie+5","trailer":"https://youtu.be/trailer5","link":"https://example.com/movie5"},
+  {"type":"movie","title":"Movie 6","year":"2018","genre":["Adventure","Fantasy"],"duration":"125 min","rating":"7.7","description":"Deskripsi Movie 6","poster":"https://via.placeholder.com/300x450?text=Movie+6","trailer":"https://youtu.be/trailer6","link":"https://example.com/movie6"},
+  {"type":"movie","title":"Movie 7","year":"2017","genre":["Drama"],"duration":"115 min","rating":"7.2","description":"Deskripsi Movie 7","poster":"https://via.placeholder.com/300x450?text=Movie+7","trailer":"https://youtu.be/trailer7","link":"https://example.com/movie7"},
+  {"type":"movie","title":"Movie 8","year":"2016","genre":["Action","Sci-Fi"],"duration":"140 min","rating":"8.5","description":"Deskripsi Movie 8","poster":"https://via.placeholder.com/300x450?text=Movie+8","trailer":"https://youtu.be/trailer8","link":"https://example.com/movie8"},
+  {"type":"movie","title":"Movie 9","year":"2015","genre":["Horror"],"duration":"90 min","rating":"6.5","description":"Deskripsi Movie 9","poster":"https://via.placeholder.com/300x450?text=Movie+9","trailer":"https://youtu.be/trailer9","link":"https://example.com/movie9"},
+  {"type":"movie","title":"Movie 10","year":"2014","genre":["Comedy","Family"],"duration":"105 min","rating":"7.1","description":"Deskripsi Movie 10","poster":"https://via.placeholder.com/300x450?text=Movie+10","trailer":"https://youtu.be/trailer10","link":"https://example.com/movie10"},
+  {"type":"series","title":"Series 1","year":"2023","genre":["Drama","Mystery"],"duration":"S01: 10 eps","rating":"8.8","description":"Deskripsi Series 1","poster":"https://via.placeholder.com/300x450?text=Series+1","trailer":"https://youtu.be/series1","link":"https://example.com/series1"},
+  {"type":"series","title":"Series 2","year":"2022","genre":["Action","Adventure"],"duration":"S01: 12 eps","rating":"8.1","description":"Deskripsi Series 2","poster":"https://via.placeholder.com/300x450?text=Series+2","trailer":"https://youtu.be/series2","link":"https://example.com/series2"},
+  {"type":"series","title":"Series 3","year":"2021","genre":["Comedy"],"duration":"S01: 8 eps","rating":"7.4","description":"Deskripsi Series 3","poster":"https://via.placeholder.com/300x450?text=Series+3","trailer":"https://youtu.be/series3","link":"https://example.com/series3"},
+  {"type":"series","title":"Series 4","year":"2020","genre":["Horror","Thriller"],"duration":"S01: 10 eps","rating":"7.9","description":"Deskripsi Series 4","poster":"https://via.placeholder.com/300x450?text=Series+4","trailer":"https://youtu.be/series4","link":"https://example.com/series4"},
+  {"type":"series","title":"Series 5","year":"2019","genre":["Fantasy","Adventure"],"duration":"S01: 13 eps","rating":"8.3","description":"Deskripsi Series 5","poster":"https://via.placeholder.com/300x450?text=Series+5","trailer":"https://youtu.be/series5","link":"https://example.com/series5"}
+]
