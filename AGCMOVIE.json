@@ -1,0 +1,68 @@
+[
+  { "type":"movie","title":"Inception","year":"2010","genre":["Sci-Fi","Action","Thriller"],"duration":"148 min","rating":"8.8","description":"Dream heist mission to plant an idea.","poster":"https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg","trailer":"https://www.youtube.com/watch?v=YoHD9XEInc0","link":"https://www.themoviedb.org/movie/27205-inception" },
+
+  { "type":"movie","title":"Interstellar","year":"2014","genre":["Sci-Fi","Drama"],"duration":"169 min","rating":"8.7","description":"Space travel to save humanity.","poster":"https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg","trailer":"https://www.youtube.com/watch?v=zSWdZVtXT7E","link":"https://www.themoviedb.org/movie/157336-interstellar" },
+
+  { "type":"movie","title":"The Dark Knight","year":"2008","genre":["Action","Crime","Drama"],"duration":"152 min","rating":"9.0","description":"Batman vs Joker in Gotham.","poster":"https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg","trailer":"https://www.youtube.com/watch?v=EXeTwQWrcwY","link":"https://www.themoviedb.org/movie/155-the-dark-knight" },
+
+  { "type":"movie","title":"Fight Club","year":"1999","genre":["Drama"],"duration":"139 min","rating":"8.8","description":"Underground fight society twist.","poster":"https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg","trailer":"https://www.youtube.com/watch?v=SUXWAEX2jlg","link":"https://www.themoviedb.org/movie/550-fight-club" },
+
+  { "type":"movie","title":"Pulp Fiction","year":"1994","genre":["Crime","Drama"],"duration":"154 min","rating":"8.9","description":"Interwoven crime stories.","poster":"https://image.tmdb.org/t/p/w500/tj6iPnz18hWQ5mN2I8R5f1k7Q2h.jpg","trailer":"https://www.youtube.com/watch?v=s7EdQ4FqbhY","link":"https://www.themoviedb.org/movie/680-pulp-fiction" },
+
+  { "type":"movie","title":"The Matrix","year":"1999","genre":["Sci-Fi","Action"],"duration":"136 min","rating":"8.7","description":"Reality is a simulation.","poster":"https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg","trailer":"https://www.youtube.com/watch?v=vKQi3bBA1y8","link":"https://www.themoviedb.org/movie/603-the-matrix" },
+
+  { "type":"movie","title":"Avengers: Endgame","year":"2019","genre":["Action","Sci-Fi"],"duration":"181 min","rating":"8.4","description":"Avengers fight Thanos again.","poster":"https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg","trailer":"https://www.youtube.com/watch?v=TcMBFSGVi1c","link":"https://www.themoviedb.org/movie/299534-avengers-endgame" },
+
+  { "type":"movie","title":"Avengers: Infinity War","year":"2018","genre":["Action","Sci-Fi"],"duration":"149 min","rating":"8.4","description":"Thanos collects all Infinity Stones.","poster":"https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg","trailer":"https://www.youtube.com/watch?v=6ZfuNTqbHE8","link":"https://www.themoviedb.org/movie/299536-avengers-infinity-war" },
+
+  { "type":"movie","title":"Titanic","year":"1997","genre":["Romance","Drama"],"duration":"195 min","rating":"7.9","description":"Love story on sinking ship.","poster":"https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg","trailer":"https://www.youtube.com/watch?v=kVrqfYjkTdQ","link":"https://www.themoviedb.org/movie/597-titanic" },
+
+  { "type":"movie","title":"Joker","year":"2019","genre":["Crime","Drama"],"duration":"122 min","rating":"8.4","description":"Origin of Joker.","poster":"https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg","trailer":"https://www.youtube.com/watch?v=zAGVQLHvwOY","link":"https://www.themoviedb.org/movie/475557-joker" },
+
+  { "type":"movie","title":"Parasite","year":"2019","genre":["Drama","Thriller"],"duration":"132 min","rating":"8.5","description":"Rich vs poor family story.","poster":"https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg","trailer":"https://www.youtube.com/watch?v=SEUXfv87Wpk","link":"https://www.themoviedb.org/movie/496243-parasite" },
+
+  { "type":"movie","title":"Dune","year":"2021","genre":["Sci-Fi","Adventure"],"duration":"155 min","rating":"8.0","description":"Desert planet political war.","poster":"https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg","trailer":"https://www.youtube.com/watch?v=n9xhJrPXop4","link":"https://www.themoviedb.org/movie/438631-dune" },
+
+  { "type":"movie","title":"The Godfather","year":"1972","genre":["Crime","Drama"],"duration":"175 min","rating":"9.2","description":"Mafia family legacy.","poster":"https://image.tmdb.org/t/p/w500/iVZ3JAcAjmguGPnRNfWFOtLHOuY.jpg","trailer":"https://www.youtube.com/watch?v=sY1S34973zA","link":"https://www.themoviedb.org/movie/238-the-godfather" },
+
+  { "type":"movie","title":"Forrest Gump","year":"1994","genre":["Drama","Romance"],"duration":"142 min","rating":"8.8","description":"Life journey of Forrest Gump.","poster":"https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg","trailer":"https://www.youtube.com/watch?v=bLvqoHBptjg","link":"https://www.themoviedb.org/movie/13-forrest-gump" },
+
+  { "type":"movie","title":"Gladiator","year":"2000","genre":["Action","Drama"],"duration":"155 min","rating":"8.5","description":"Roman general revenge story.","poster":"https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg","trailer":"https://www.youtube.com/watch?v=owK1qxDselE","link":"https://www.themoviedb.org/movie/98-gladiator" },
+
+  { "type":"movie","title":"Spider-Man: No Way Home","year":"2021","genre":["Action","Sci-Fi"],"duration":"148 min","rating":"8.2","description":"Multiverse Spider-Man chaos.","poster":"https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg","trailer":"https://www.youtube.com/watch?v=JfVOs4VSpmA","link":"https://www.themoviedb.org/movie/634649-spider-man-no-way-home" },
+
+  { "type":"movie","title":"The Shawshank Redemption","year":"1994","genre":["Drama"],"duration":"142 min","rating":"9.3","description":"Hope in prison life.","poster":"https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg","trailer":"https://www.youtube.com/watch?v=6hB3S9bIaco","link":"https://www.themoviedb.org/movie/278-the-shawshank-redemption" },
+
+  { "type":"movie","title":"The Lion King","year":"1994","genre":["Animation","Drama"],"duration":"88 min","rating":"8.5","description":"Lion prince journey.","poster":"https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg","trailer":"https://www.youtube.com/watch?v=4sj1MT05lAA","link":"https://www.themoviedb.org/movie/8587-the-lion-king" },
+
+  { "type":"movie","title":"Iron Man","year":"2008","genre":["Action","Sci-Fi"],"duration":"126 min","rating":"7.9","description":"Start of Marvel Iron Man.","poster":"https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg","trailer":"https://www.youtube.com/watch?v=8ugaeA-nMTc","link":"https://www.themoviedb.org/movie/1726-iron-man" },
+
+  { "type":"movie","title":"Doctor Strange","year":"2016","genre":["Action","Fantasy"],"duration":"115 min","rating":"7.5","description":"Magic multiverse awakening.","poster":"https://image.tmdb.org/t/p/w500/1YeBkOqz2Yv4Zk6G4KkV9z8k0kK.jpg","trailer":"https://www.youtube.com/watch?v=HSzx-zryEgM","link":"https://www.themoviedb.org/movie/284052-doctor-strange" },
+
+
+  { "type":"series","title":"Breaking Bad","year":"2008–2013","genre":["Crime","Drama"],"duration":"5 Seasons","rating":"9.5","description":"Teacher becomes drug kingpin.","poster":"https://image.tmdb.org/t/p/w500/3xnWaLQjelJDDF7LT1WBo6f4BRe.jpg","trailer":"https://www.youtube.com/watch?v=HhesaQXLuRY","link":"https://www.themoviedb.org/tv/1396-breaking-bad" },
+
+  { "type":"series","title":"Game of Thrones","year":"2011–2019","genre":["Fantasy","Drama"],"duration":"8 Seasons","rating":"9.2","description":"Battle for Iron Throne.","poster":"https://image.tmdb.org/t/p/w500/7WUHnWGx5OO145IRxPDUkQSh4C7.jpg","trailer":"https://www.youtube.com/watch?v=KPLWWIOCOOQ","link":"https://www.themoviedb.org/tv/1399-game-of-thrones" },
+
+  { "type":"series","title":"Stranger Things","year":"2016–","genre":["Sci-Fi","Horror"],"duration":"4 Seasons","rating":"8.7","description":"Kids vs supernatural world.","poster":"https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg","trailer":"https://www.youtube.com/watch?v=b9EkMc79ZSU","link":"https://www.themoviedb.org/tv/66732-stranger-things" },
+
+  { "type":"series","title":"The Boys","year":"2019–","genre":["Action","Comedy"],"duration":"4 Seasons","rating":"8.7","description":"Evil superheroes exposed.","poster":"https://image.tmdb.org/t/p/w500/7Ns6tO3aYjppI5bFhyYz5vTQzqK.jpg","trailer":"https://www.youtube.com/watch?v=0DAmWHxeoKw","link":"https://www.themoviedb.org/tv/76479-the-boys" },
+
+  { "type":"series","title":"The Mandalorian","year":"2019–","genre":["Sci-Fi","Adventure"],"duration":"3 Seasons","rating":"8.7","description":"Star Wars bounty hunter.","poster":"https://image.tmdb.org/t/p/w500/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg","trailer":"https://www.youtube.com/watch?v=aOC8E8z_ifw","link":"https://www.themoviedb.org/tv/82856-the-mandalorian" },
+
+  { "type":"series","title":"Wednesday","year":"2022–","genre":["Mystery","Comedy"],"duration":"1 Season","rating":"8.1","description":"Wednesday Addams at school mystery.","poster":"https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg","trailer":"https://www.youtube.com/watch?v=Q73UhUTs6y0","link":"https://www.themoviedb.org/tv/119051-wednesday" },
+
+  { "type":"series","title":"Loki","year":"2021–2023","genre":["Sci-Fi","Fantasy"],"duration":"2 Seasons","rating":"8.2","description":"God of Mischief timeline chaos.","poster":"https://image.tmdb.org/t/p/w500/voHUmluYmKyleFkTu3lOXQG702u.jpg","trailer":"https://www.youtube.com/watch?v=nW948Va-l10","link":"https://www.themoviedb.org/tv/84958-loki" },
+
+  { "type":"series","title":"Money Heist","year":"2017–2021","genre":["Crime","Drama"],"duration":"5 Seasons","rating":"8.2","description":"Heist of Royal Mint Spain.","poster":"https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg","trailer":"https://www.youtube.com/watch?v=htqXL94Rza4","link":"https://www.themoviedb.org/tv/71446-money-heist" },
+
+  { "type":"series","title":"Squid Game","year":"2021–","genre":["Thriller","Drama"],"duration":"2 Seasons","rating":"8.0","description":"Deadly survival games.","poster":"https://image.tmdb.org/t/p/w500/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg","trailer":"https://www.youtube.com/watch?v=oqxAJKy0ii4","link":"https://www.themoviedb.org/tv/93405-squid-game" },
+
+  { "type":"series","title":"The Witcher","year":"2019–","genre":["Fantasy","Adventure"],"duration":"3 Seasons","rating":"8.0","description":"Monster hunter Geralt story.","poster":"https://image.tmdb.org/t/p/w500/cZ0d3rtvXPVvuiX22sP79K3Hmjz.jpg","trailer":"https://www.youtube.com/watch?v=ndl1W4ltcmg","link":"https://www.themoviedb.org/tv/71912-the-witcher" },
+
+  { "type":"series","title":"Dark","year":"2017–2020","genre":["Sci-Fi","Mystery"],"duration":"3 Seasons","rating":"8.8","description":"Time travel family mystery.","poster":"https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg","trailer":"https://www.youtube.com/watch?v=rrwycJ08PSA","link":"https://www.themoviedb.org/tv/70523-dark" },
+
+  { "type":"series","title":"House of the Dragon","year":"2022–","genre":["Fantasy","Drama"],"duration":"2 Seasons","rating":"8.5","description":"Targaryen civil war story.","poster":"https://image.tmdb.org/t/p/w500/z2yahl2uefxDCl0nogcRBstwruJ.jpg","trailer":"https://www.youtube.com/watch?v=DotnJ7tTA34","link":"https://www.themoviedb.org/tv/94997-house-of-the-dragon" },
+
+  { "type":"series","title":"The Crown","year":"2016–2023","genre":["Drama","History"],"duration":"6 Seasons","rating":"8.6","description":"Life of Queen Elizabeth II.","poster":"https://image.tmdb.org/t/p/w500/1M876KPjulVwppEpldhdc8V4o68.jpg","trailer":"https://www.youtube.com/watch?v=JWtnJjn6ng0","link":"https://www.themoviedb.org/tv/65494-the-crown" }
+]
