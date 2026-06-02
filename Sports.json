@@ -1,0 +1,408 @@
+[
+  {
+    "id": 1,
+    "sport": "football",
+    "league": "Premier League",
+    "home": "Arsenal",
+    "away": "Chelsea",
+    "score": "2-1",
+    "status": "LIVE",
+    "time": "78'"
+  },
+  {
+    "id": 2,
+    "sport": "football",
+    "league": "La Liga",
+    "home": "Real Madrid",
+    "away": "Barcelona",
+    "score": "1-1",
+    "status": "LIVE",
+    "time": "65'"
+  },
+  {
+    "id": 3,
+    "sport": "football",
+    "league": "Serie A",
+    "home": "Inter Milan",
+    "away": "AC Milan",
+    "score": "0-0",
+    "status": "UPCOMING",
+    "time": "21:00"
+  },
+  {
+    "id": 4,
+    "sport": "football",
+    "league": "Bundesliga",
+    "home": "Bayern Munich",
+    "away": "Dortmund",
+    "score": "3-2",
+    "status": "FT",
+    "time": "-"
+  },
+  {
+    "id": 5,
+    "sport": "football",
+    "league": "UCL",
+    "home": "PSG",
+    "away": "Manchester City",
+    "score": "2-2",
+    "status": "LIVE",
+    "time": "80'"
+  },
+
+  {
+    "id": 6,
+    "sport": "nba",
+    "league": "NBA",
+    "home": "Lakers",
+    "away": "Warriors",
+    "score": "102-99",
+    "status": "LIVE",
+    "time": "Q4 03:21"
+  },
+  {
+    "id": 7,
+    "sport": "nba",
+    "league": "NBA",
+    "home": "Celtics",
+    "away": "Heat",
+    "score": "110-104",
+    "status": "FT",
+    "time": "-"
+  },
+  {
+    "id": 8,
+    "sport": "nba",
+    "league": "NBA",
+    "home": "Bulls",
+    "away": "Nets",
+    "score": "0-0",
+    "status": "UPCOMING",
+    "time": "08:00 PM"
+  },
+  {
+    "id": 9,
+    "sport": "nba",
+    "league": "NBA",
+    "home": "Knicks",
+    "away": "Spurs",
+    "score": "95-97",
+    "status": "LIVE",
+    "time": "Q3 01:11"
+  },
+  {
+    "id": 10,
+    "sport": "nba",
+    "league": "NBA",
+    "home": "Suns",
+    "away": "Mavericks",
+    "score": "120-118",
+    "status": "FT",
+    "time": "-"
+  },
+
+  {
+    "id": 11,
+    "sport": "tennis",
+    "league": "ATP",
+    "home": "Djokovic",
+    "away": "Alcaraz",
+    "score": "2-1 sets",
+    "status": "LIVE",
+    "time": "Set 4"
+  },
+  {
+    "id": 12,
+    "sport": "tennis",
+    "league": "WTA",
+    "home": "Swiatek",
+    "away": "Sabalenka",
+    "score": "1-1 sets",
+    "status": "LIVE",
+    "time": "Set 3"
+  },
+  {
+    "id": 13,
+    "sport": "tennis",
+    "league": "ATP",
+    "home": "Medvedev",
+    "away": "Zverev",
+    "score": "-",
+    "status": "UPCOMING",
+    "time": "Tomorrow"
+  },
+  {
+    "id": 14,
+    "sport": "tennis",
+    "league": "ATP",
+    "home": "Nadal",
+    "away": "Tsitsipas",
+    "score": "2-0",
+    "status": "FT",
+    "time": "-"
+  },
+  {
+    "id": 15,
+    "sport": "tennis",
+    "league": "WTA",
+    "home": "Gauff",
+    "away": "Rybakina",
+    "score": "0-0",
+    "status": "UPCOMING",
+    "time": "Tonight"
+  },
+
+  {
+    "id": 16,
+    "sport": "nfl",
+    "league": "NFL",
+    "home": "Chiefs",
+    "away": "Bills",
+    "score": "21-17",
+    "status": "LIVE",
+    "time": "Q3 09:12"
+  },
+  {
+    "id": 17,
+    "sport": "nfl",
+    "league": "NFL",
+    "home": "Cowboys",
+    "away": "Eagles",
+    "score": "28-24",
+    "status": "FT",
+    "time": "-"
+  },
+  {
+    "id": 18,
+    "sport": "nfl",
+    "league": "NFL",
+    "home": "49ers",
+    "away": "Rams",
+    "score": "0-0",
+    "status": "UPCOMING",
+    "time": "Sunday"
+  },
+  {
+    "id": 19,
+    "sport": "nfl",
+    "league": "NFL",
+    "home": "Packers",
+    "away": "Bears",
+    "score": "17-10",
+    "status": "FT",
+    "time": "-"
+  },
+  {
+    "id": 20,
+    "sport": "nfl",
+    "league": "NFL",
+    "home": "Dolphins",
+    "away": "Jets",
+    "score": "14-14",
+    "status": "LIVE",
+    "time": "Q2 05:44"
+  },
+
+  {
+    "id": 21,
+    "sport": "boxing",
+    "league": "Heavyweight",
+    "home": "Tyson Fury",
+    "away": "Oleksandr Usyk",
+    "score": "-",
+    "status": "UPCOMING",
+    "time": "Main Event"
+  },
+  {
+    "id": 22,
+    "sport": "boxing",
+    "league": "Middleweight",
+    "home": "Canelo Alvarez",
+    "away": "Dmitry Bivol",
+    "score": "WIN Canelo",
+    "status": "FT",
+    "time": "-"
+  },
+  {
+    "id": 23,
+    "sport": "boxing",
+    "league": "Lightweight",
+    "home": "Gervonta Davis",
+    "away": "Ryan Garcia",
+    "score": "KO Davis",
+    "status": "FT",
+    "time": "-"
+  },
+  {
+    "id": 24,
+    "sport": "boxing",
+    "league": "Welterweight",
+    "home": "Spence Jr",
+    "away": "Crawford",
+    "score": "-",
+    "status": "UPCOMING",
+    "time": "TBD"
+  },
+
+  {
+    "id": 25,
+    "sport": "football",
+    "league": "MLS",
+    "home": "Inter Miami",
+    "away": "LA Galaxy",
+    "score": "3-1",
+    "status": "FT",
+    "time": "-"
+  },
+  {
+    "id": 26,
+    "sport": "football",
+    "league": "Ligue 1",
+    "home": "PSG",
+    "away": "Lyon",
+    "score": "2-0",
+    "status": "FT",
+    "time": "-"
+  },
+  {
+    "id": 27,
+    "sport": "nba",
+    "league": "NBA",
+    "home": "Raptors",
+    "away": "Bucks",
+    "score": "108-112",
+    "status": "LIVE",
+    "time": "Q4 02:44"
+  },
+  {
+    "id": 28,
+    "sport": "nba",
+    "league": "NBA",
+    "home": "Clippers",
+    "away": "Nuggets",
+    "score": "0-0",
+    "status": "UPCOMING",
+    "time": "10:30 PM"
+  },
+  {
+    "id": 29,
+    "sport": "football",
+    "league": "Eredivisie",
+    "home": "Ajax",
+    "away": "PSV",
+    "score": "1-3",
+    "status": "FT",
+    "time": "-"
+  },
+  {
+    "id": 30,
+    "sport": "football",
+    "league": "Serie A",
+    "home": "Juventus",
+    "away": "Napoli",
+    "score": "0-1",
+    "status": "LIVE",
+    "time": "70'"
+  },
+
+  {
+    "id": 31,
+    "sport": "tennis",
+    "league": "ATP",
+    "home": "Rune",
+    "away": "Fritz",
+    "score": "-",
+    "status": "UPCOMING",
+    "time": "Tonight"
+  },
+  {
+    "id": 32,
+    "sport": "nfl",
+    "league": "NFL",
+    "home": "Ravens",
+    "away": "Steelers",
+    "score": "10-7",
+    "status": "LIVE",
+    "time": "Q1 12:11"
+  },
+  {
+    "id": 33,
+    "sport": "nba",
+    "league": "NBA",
+    "home": "Spurs",
+    "away": "Kings",
+    "score": "99-101",
+    "status": "FT",
+    "time": "-"
+  },
+  {
+    "id": 34,
+    "sport": "football",
+    "league": "UCL",
+    "home": "Man United",
+    "away": "Bayern",
+    "score": "1-4",
+    "status": "FT",
+    "time": "-"
+  },
+  {
+    "id": 35,
+    "sport": "football",
+    "league": "La Liga",
+    "home": "Atletico Madrid",
+    "away": "Sevilla",
+    "score": "2-0",
+    "status": "LIVE",
+    "time": "60'"
+  },
+  {
+    "id": 36,
+    "sport": "nba",
+    "league": "NBA",
+    "home": "Magic",
+    "away": "Hawks",
+    "score": "0-0",
+    "status": "UPCOMING",
+    "time": "07:00 PM"
+  },
+  {
+    "id": 37,
+    "sport": "football",
+    "league": "Premier League",
+    "home": "Tottenham",
+    "away": "Newcastle",
+    "score": "1-2",
+    "status": "LIVE",
+    "time": "85'"
+  },
+  {
+    "id": 38,
+    "sport": "tennis",
+    "league": "WTA",
+    "home": "Halep",
+    "away": "Osaka",
+    "score": "2-0",
+    "status": "FT",
+    "time": "-"
+  },
+  {
+    "id": 39,
+    "sport": "nfl",
+    "league": "NFL",
+    "home": "Broncos",
+    "away": "Raiders",
+    "score": "0-0",
+    "status": "UPCOMING",
+    "time": "Monday"
+  },
+  {
+    "id": 40,
+    "sport": "boxing",
+    "league": "Heavyweight",
+    "home": "Joshua",
+    "away": "Wilder",
+    "score": "-",
+    "status": "UPCOMING",
+    "time": "PPV"
+  }
+]
